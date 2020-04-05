@@ -15,7 +15,7 @@
   "dependencies": {
     "db-migrate": "^0.11.6",
     "db-migrate-mysql": "^2.1.1",
-    "minimist": "^1.2.2",
+    "minimist": "^1.2.3",
     "sqlite3": "^4.1.1"
   }
 }
